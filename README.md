@@ -1,4 +1,4 @@
-# LABORATORIO 3 - TDDa
+# LABORATORIO 3 - TDD
 
 #### TALLER 3
 #### JEISSON SANCHEZ
@@ -42,6 +42,7 @@ archetypeArtifactId: maven-archetype-quickstart
 </properties>
 ```
 - Compile el proyecto para validar que todo este bien.
+![alt text](image.png)
 ### AGREGAR ESQUELETO DEL PROYECTO
 Cree los siguientes paquetes dentro de ```edu.eci.cvds.tdd```
 - library
