@@ -106,6 +106,9 @@ public class Book {
     }
 }
 ```
+
+![image-6](https://github.com/user-attachments/assets/63021aee-b2ab-4891-a4cb-9477465790c3)
+
 A continuación en el paquete ```edu.eci.cvds.tdd.library.user``` cree la siguiente clase:
 ```java
 package edu.eci.cvds.tdd.library.user;
@@ -131,6 +134,9 @@ public class User {
     }
 }
 ```
+
+![image-7](https://github.com/user-attachments/assets/6774d847-63eb-4e2d-99e0-0937e1e6cd15)
+
 En el paquete ```edu.eci.cvds.tdd.library.loan``` se deben crear las clases Loan y el enum LoanStatus:
 ```java
 package edu.eci.cvds.tdd.library.loan;
