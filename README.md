@@ -49,6 +49,8 @@ Cree los siguientes paquetes dentro de ```edu.eci.cvds.tdd```
   - book
   - loan
   - user
+  ![alt text](image-3.png)
+  ![alt text](image-1.png)
 
 Estos paquetes también se deben crear en la carpeta de test.
 ```sh
@@ -67,6 +69,8 @@ Estos paquetes también se deben crear en la carpeta de test.
 │             └───user
 │ App.java
 ```
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 ### AGREGAR CLASES 
 En el paquete ```edu.eci.cvds.tdd.library.book``` cree la siguiente clase:
